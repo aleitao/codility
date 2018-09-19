@@ -1,4 +1,4 @@
-package pt.aleitao.codility.lesson1;
+package pt.aleitao.codility.binarygap;
 
 import org.junit.Test;
 
