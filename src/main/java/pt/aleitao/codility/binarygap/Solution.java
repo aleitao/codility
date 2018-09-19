@@ -1,6 +1,6 @@
 package pt.aleitao.codility.binarygap;
 
-class Solution {
+public class Solution {
 
     int solution(int N) {
 
