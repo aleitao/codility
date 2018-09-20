@@ -1,4 +1,4 @@
-package pt.segsocial.codility.countdiv;
+package pt.aleitao.codility.countdiv;
 
 public class Solution {
 
